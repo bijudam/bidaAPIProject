@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: BidaAPIProject
+  gitServerName: btest1
+  gitUrl: https://github.com/bijudam
+  gitUsername: bijudam
+  gitBranch: main
